@@ -1,7 +1,7 @@
 {
     "name": "store-validate",
     "version": "0.0.1",
-    "description": "A 'datastore' plugin to validate your data using a JSON Schema",
+    "description": "A 'datastore' plugin to validate your models using a JSON Schema",
     "main": "index.js",
     "scripts": [
         "index.js"
