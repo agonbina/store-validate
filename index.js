@@ -27,6 +27,7 @@ var validate = function (store, schema) {
         store.loop(function (key, value) {
             model[key] = value;
         });
+
         return model;
     };
 

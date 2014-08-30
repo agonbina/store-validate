@@ -7,9 +7,13 @@ var user = new Store({
 });
 var userSchema = {
     properties: {
+        username: { type: 'string' },
         age: { type: 'number' }
-    }
+    },
+    required: [ 'username', 'age' ]
 };
 
-var result = user.use(validate, userSchema);
+user.use(validate, userSchema);
+
+var result = user.validate();
 console.log(result); // undefined
