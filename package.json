@@ -1,0 +1,25 @@
+{
+  "name": "store-validate",
+  "version": "0.0.1",
+  "description": "A 'datastore' plugin to validate your data using a JSON Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agonbina/store-validate.git"
+  },
+  "keywords": [
+    "datastore"
+  ],
+  "author": "Agon Bina <agon_bina@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agonbina/store-validate/issues"
+  },
+  "homepage": "https://github.com/agonbina/store-validate",
+  "dependencies": {
+    "datastore": "^1.0.6"
+  }
+}
