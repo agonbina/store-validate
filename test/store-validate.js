@@ -30,7 +30,7 @@ describe('store-validate middleware', function () {
         assert.notEqual(store.schema, null);
     });
 
-    it('should validate required correctly', function () {
+    it('should validate required properties correctly', function () {
         var schema = {
             properties: {
                 username: { type: 'string' },

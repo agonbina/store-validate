@@ -29,5 +29,4 @@ var result = user.validate(); // No errors, 'result' is undefined
 
 ```
 
-API:
-====
+Run tests with **npm test**

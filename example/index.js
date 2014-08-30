@@ -1,4 +1,4 @@
-var Store = require('datastore');
+var Store = require('sleek');
 var validate = require('..');
 
 var user = new Store({
