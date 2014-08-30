@@ -1,5 +1,9 @@
 store-validate
 ====
+A [datastore](https://github.com/bredele/datastore/) plugin to validate your data using a JSON Schema.
+Also works with [sleek](https://github.com/bredele/sleek/)
+
+Internally it uses [swagger-validate](https://github.com/signalfuse/swagger-validate) which works in the browser and nodeland
 
 Example:
 ====
