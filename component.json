@@ -12,7 +12,7 @@
     "license": "MIT",
     "dependencies": {
         "bredele/datastore": "^1.0.6",
-        "agonbina/swagger-validate": "*"
+        "agonbina/swagger-validate": "master"
     },
     "development": {
         "component/assert": "~0.4.0"
