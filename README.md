@@ -1,3 +1,6 @@
+You should not use this as its no longer supported
+===
+
 [ ![Codeship Status for agonbina/store-validate](https://www.codeship.io/projects/088558b0-14db-0132-8085-3ea9ac9fe796/status)](https://www.codeship.io/projects/33539)
 
 store-validate
